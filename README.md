@@ -9,8 +9,8 @@ I like building games, working with machine learning, and getting close to the h
 - **Backends & data** – REST APIs for team web apps (MERN, LAMP) and backend/data design for *CogniChat*, a Senior Design app for a speech-language pathologist
 
 ### Currently
-Working on [fadeQuest, a pygame metroidvania / continuing Syntax Error]
-Learning [e.g. CNNs in PyTorch, OpenGL graphics with ModernGL]
+- Working on [fadeQuest, a pygame metroidvania / continuing Syntax Error]
+- Learning [e.g. CNNs in PyTorch, OpenGL graphics with ModernGL]
 
 ### Tech
 **Languages:** Python, C#, JavaScript, [C/C++?], [PHP?], SQL
