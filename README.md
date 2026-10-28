@@ -14,6 +14,7 @@ I like building games, working with machine learning, and getting close to the h
 
 ### Tech
 **Languages:** Python, C#, JavaScript, [C/C++?], [PHP?], SQL
+
 **Tools & frameworks:** Unity, pygame, React, Node/Express, [Django, Next.js], Supabase/PostgreSQL, MongoDB, Git, Linux
 
 ### Contact
