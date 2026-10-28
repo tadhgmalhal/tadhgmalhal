@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Tadhg :)
 
-<!--
-**tadhgmalhal/tadhgmalhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at the University of Central Florida (graduating May 2027), looking for **new-grad software engineering roles**.
+I like building games, working with machine learning, and getting close to the hardware.
 
-Here are some ideas to get you started:
+### What I build
+- **Game systems & AI** – enemy/boss AI for a Meta Quest VR game (Unity/C#) that won *Most Complex Game* in UCF's AI for Game Programming course
+- **Gameplay & pathfinding** – co-built *Syntax Error* at KnightHacks IX, a pygame tower defense game where players program their defenses; I built Dijkstra flow-field enemy pathfinding
+- **Backends & data** – REST APIs for team web apps (MERN, LAMP) and backend/data design for *CogniChat*, a Senior Design app for a speech-language pathologist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+Working on [fadeQuest, a pygame metroidvania / continuing Syntax Error]
+Learning [e.g. CNNs in PyTorch, OpenGL graphics with ModernGL]
+
+### Tech
+**Languages:** Python, C#, JavaScript, [C/C++?], [PHP?], SQL
+**Tools & frameworks:** Unity, pygame, React, Node/Express, [Django, Next.js], Supabase/PostgreSQL, MongoDB, Git, Linux
+
+### Contact
+[LinkedIn](https://linkedin.com/in/[your-handle]) · [Portfolio](https://[your-site]) · tadhghallahan@gmail.com
